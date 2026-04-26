@@ -324,7 +324,3 @@ directories, so they never touch your real index.
 - Eval harness on top of the feedback log (precision, refusal rate, latency).
 
 ---
-
-## License
-
-MIT &mdash; do whatever you want, no warranty.
