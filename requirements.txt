@@ -22,7 +22,7 @@ python-multipart
 
 pydantic
 pydantic-settings
-
+torchvision
 streamlit
 requests
 
